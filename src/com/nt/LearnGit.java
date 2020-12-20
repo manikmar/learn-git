@@ -13,6 +13,5 @@ public class LearnGit {
     public static void data(){
         System.out.println("data method");
     }
-
-
+    
 }
